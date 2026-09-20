@@ -1,11 +1,11 @@
 # ☸️ Kubernetes (K8s) BY =Ritwik Raj 
 
-A practical, beginner-friendly guide to Kubernetes — from understanding the fundamentals to practically undertand how if a colelge student makes a basic MERN app lets say- TODO app , which initially has just a frontend and a backend folder which that student can host locally easily and use it BUT - BUT : this document takes it to the next step on undertanding how can that student use kubernetes to deplye the same basic mern app .
+A practical, beginner-friendly guide to Kubernetes — from understanding the fundamentals to practically undertand how if a college student makes a basic MERN app lets say- TODO app , which initially has just a frontend and a backend folder which that student can host locally easily and use it BUT - BUT : this document takes it to the next step on undertanding how can that student use kubernetes to deplye the same basic mern app .
 
 HOW TO USE THIS DOC :-
-1. based on my exp this doc first has basic intro to what kubernetes is and it mostly rely on analogy of practile exp of how if some one knows
+1. based on my exp this doc first has basic intro to what kubernetes is and it mostly rely on analogy of practical exp of how if some one knows
    basic operation can he deploy his app .
-2. The broader goal is to give a high level idea how deployment happens at enterprise level using simple relatable example
+2. The broader goal is to give a high level idea how deployment happens at enterprise level using simple relatable example.
 3. I would advice the reader to use AI to question each section and clear its doubts treat this doc as the basic things that kubernetes user should know
    
 
