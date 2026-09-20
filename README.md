@@ -376,6 +376,8 @@ We need a way to:
 
 Before Kubernetes, we containerize our application.
 
+PRE-TASK  1 : use ai and research for Images, container basic knowledge before reading this if u dont have any idea about it 
+
 The architecture becomes:
 
 ```text
